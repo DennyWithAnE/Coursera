@@ -1,0 +1,15 @@
+{
+  "name": "node-mongo",
+  "version": "1.0.0",
+  "description": "Node MongoDB Example",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index "
+  },
+  "author": "Denny Koh",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.6.3"
+  }
+}
